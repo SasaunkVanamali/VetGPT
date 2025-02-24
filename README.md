@@ -1,5 +1,7 @@
 # VetGPT: AI-Driven Veterinary Chatbot
 
+Authors : Rishika Goud Muddapuram, Sasaunk Vanamali
+
 ## Overview
 VetGPT is an AI-powered chatbot designed to assist pet owners by providing preliminary diagnoses for pet conditions based on user input.
 
